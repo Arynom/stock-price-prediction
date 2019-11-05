@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Upwork1\\19.Alan\\checkpoints\\SL\\NaiveLSTM\\stock\\model"
+all_model_checkpoint_paths: "G:\\Upwork1\\19.Alan\\checkpoints\\SL\\NaiveLSTM\\stock\\model"
